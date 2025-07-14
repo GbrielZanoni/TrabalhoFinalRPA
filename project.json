@@ -1,8 +1,8 @@
-﻿{
+{
   "name": "Projeto Final RPA",
   "projectId": "05bab90c-2d1a-49d1-9cc1-3c014bcaa31c",
   "description": "O projeto final do Bootcamp de RPA",
-  "main": "gabriel zanoni.xaml",
+  "main": "gabriel.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[25.4.4]",
     "UiPath.UIAutomation.Activities": "[25.10.8]",
@@ -47,8 +47,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "gabriel zanoni.xaml",
-      "uniqueId": "45b8e6dd-2c1b-4d0a-99e0-9144659d0a2b",
+      "filePath": "gabriel.xaml",
+      "uniqueId": "c310b1a4-b890-4426-8833-3634394236fe",
       "input": [],
       "output": []
     }
