@@ -244,7 +244,7 @@
       <x:Boolean x:Key="ShouldExpandAll">False</x:Boolean>
     </scg:Dictionary>
   </sap:WorkflowViewStateService.ViewState>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="924.4000000000001,3805.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="924.4000000000001,3688" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:Int32" Name="indice" />
       <Variable x:TypeArguments="sd:DataTable" Name="dtAgrupada" />
@@ -254,7 +254,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="Renomeia a Planilha, Muda os Cabeçalhos" sap:VirtualizedContainerService.HintSize="816,3734.4" sap2010:WorkflowViewState.IdRef="Sequence_17">
+    <Sequence DisplayName="Renomeia a Planilha, Muda os Cabeçalhos" sap:VirtualizedContainerService.HintSize="816,3616.8" sap2010:WorkflowViewState.IdRef="Sequence_17">
       <Sequence.Variables>
         <Variable x:TypeArguments="sd:DataTable" Name="dtProblemas" />
       </Sequence.Variables>
@@ -380,7 +380,7 @@
           </sap:WorkflowViewStateService.ViewState>
         </ueab:ExcelProcessScopeX>
       </Sequence>
-      <Sequence DisplayName="Tratativa de Dados da Tabela" sap:VirtualizedContainerService.HintSize="782.4,3232.8" sap2010:WorkflowViewState.IdRef="Sequence_27">
+      <Sequence DisplayName="Tratativa de Dados da Tabela" sap:VirtualizedContainerService.HintSize="782.4,3224" sap2010:WorkflowViewState.IdRef="Sequence_27">
         <Sequence.Variables>
           <Variable x:TypeArguments="x:Boolean" Name="deletouLinha" />
           <Variable x:TypeArguments="x:String" Name="strInvoice" />
@@ -1154,9 +1154,8 @@
           </ueab:ExcelProcessScopeX.Body>
         </ueab:ExcelProcessScopeX>
       </Sequence>
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="737.6,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_4" Text="[indice]" />
     </Sequence>
-    <Sequence DisplayName="Cria a DataTable, formata os itens como arary" sap:VirtualizedContainerService.HintSize="771.2,48" sap2010:WorkflowViewState.IdRef="Sequence_14">
+    <Sequence DisplayName="Cria a DataTable, formata os itens como arary" sap:VirtualizedContainerService.HintSize="816,48" sap2010:WorkflowViewState.IdRef="Sequence_14">
       <Sequence.Variables>
         <Variable x:TypeArguments="sd:DataTable" Name="DataTable" />
       </Sequence.Variables>
