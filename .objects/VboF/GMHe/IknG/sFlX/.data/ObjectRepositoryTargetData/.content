@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QiSyv5zrn0qIgxpFqVQBQQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="invoice-generator.com" CVScreenId="442ccff1-9027-4d92-8322-18f9691c0acc" CvElementArea="311, 443, 103, 46" CvTextArea="328, 459, 68, 17" CvTextArgument="OK, got it!" CvType="Button" DesignTimeRectangle="313, 445, 99, 42" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='learnMoreCollapse' tag='A' /&gt;" Guid="2e7b1c06-29f9-4259-b0c6-5bfec04d3bba" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Free Invoice Generator' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="313, 232, 800, 255" FuzzySelectorArgument="&lt;webctrl class='learn-more-banner' parentid='learnMoreCollapse' tag='DIV' type='' aaname='                                                                                                  ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Free Invoice Template&amp;#xA;Make beautiful Invoices with one click!&amp;#xA;&amp;#xA;Welcome to the original Invoice Generator, trusted by millions of people. Invoice Generator lets you instantly make Invoices with our attractive invoice template straight from your web browser. The Invoices you make can be sent and paid online or downloaded as a PDF.&amp;#xA;&amp;#xA;Did we also mention that Invoice Generator lets you generate an unlimited number of Invoices?&amp;#xA;&amp;#xA;OK, got it!' /&gt;" Guid="2874ec33-66f1-44d7-ab5d-ba6fee24e535" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cc7b671c3e62dad9e2bb8a96d73e1261.png" xmlns="">0dtvMLm_uuE-S-7rlO0O-mA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

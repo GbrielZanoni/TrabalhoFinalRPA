@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="n9MnYbdCVEWf5N7FtP0_Hg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="invoice-generator.com/history" CVScreenId="7f20f945-3f15-434e-8069-ea4f32cf9dce" CvElementArea="1467, 354, 118, 47" CvTextArea="1484, 370, 83, 14" CvTextArgument="New Invoice" CvType="Button" DesignTimeRectangle="1468, 356, 115, 43" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='                                     New Invoice                                 ' tag='A' /&gt;" Guid="16721688-e827-4567-8060-9433773561f4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='History - Invoice Generator' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="968, 348, 627, 51" FuzzySelectorArgument="&lt;webctrl type='' class='col-sm-6 pt-2 text-sm-end' tag='DIV' aaname='                                                                                               ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Export New Invoice' /&gt;" Guid="17410b87-9e70-4e50-8675-3d8be15a1b82" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0c67b9331c9910febfa08aebb28a1fa6.png" xmlns="">0PO1Y7X_hBE2gVac-GYLDsA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

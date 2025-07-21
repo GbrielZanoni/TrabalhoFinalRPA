@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="A7ZmzC2NlkCo83a2LI9M7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="invoice-generator.com" CVScreenId="ad85d4ab-7a7c-44df-86e5-1e0e1fcf92a3" CvTextArea="683, 167, 49, 16" CvTextArgument="History" CvType="Text" DesignTimeRectangle="684, 147, 59, 53" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='                                         History                                     ' parentid='navbarCollapse' tag='A' /&gt;" Guid="87413fd5-1eb6-42c4-b9f9-d37087eb2224" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Free Invoice Generator' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ad85d4ab-7a7c-44df-86e5-1e0e1fcf92a3" CvTextArea="683, 167, 49, 16" CvTextArgument="History" CvType="Text" DesignTimeRectangle="676, 147, 75, 53" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl type='' tag='LI' class='nav-item px-lg-2' aaname='                                                                      ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='History' /&gt;" Guid="a646eb49-0862-4a54-a66c-df1ceb324ceb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="15b1f7832c732c4939751d7409e6ec5d.png" xmlns="">0Hcv1DTIZtEa9xHvSccUTaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
